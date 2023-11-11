@@ -1,12 +1,11 @@
 Merhaba, Ben Yusuf Efe Kaya
-![Profil Resmi](https://cdn.pixabay.com/photo/2015/08/27/09/06/bike-909690_1280.jpg)
 
 ## Hakkımda
 Merhaba! Ben Yusuf Efe Kaya. Yazılım geliştirme ve teknolojiye olan ilgimle bilinen bir geliştiriciyim. Bu kısımda benimle ilgili bazı temel bilgileri bulabilirsiniz.
 
 ## Geliştirici Hesapları
-[Github](https://github.com/Kaya29) - GitHub profilimde çeşitli projelerimi bulabilirsiniz.
-[Google Play](https://play.google.com/store/apps/developer?id=YEKGAMES) - Android uygulamalarımı Google Play Store'da bulabilirsiniz.
+- [Github](https://github.com/Kaya29) - GitHub profilimde çeşitli projelerimi bulabilirsiniz.
+- [Google Play](https://play.google.com/store/apps/developer?id=YEKGAMES) - Android uygulamalarımı Google Play Store'da bulabilirsiniz.
 
 ## Yeteneklerim
 - Programlama Dilleri: Python, C#, Unity Scripting
