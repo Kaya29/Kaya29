@@ -16,7 +16,8 @@ Merhaba! Ben Yusuf Efe Kaya. Yazılım geliştirme ve teknolojiye olan ilgimle b
 Bu bölümde, üzerinde çalıştığım bazı projelerden örnekler bulabilirsiniz:
 
 [SCARY LABYRINTH](https://play.google.com/store/apps/details?id=com.YEKGAMES.ScaryLabyrinth) - KORKUNÇ LABİRENTTE KORKUNÖ YARATIKLARDAN KAÇMAK
-İletişim
+
+## İletişim 
 Eğer benimle iletişime geçmek istiyorsanız:
 
 E-posta: yusufefekaya20072934@gmail.com
