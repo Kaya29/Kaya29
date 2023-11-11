@@ -1,12 +1,12 @@
 Merhaba, Ben Yusuf Efe Kaya
-![Profil Resmi](https://tr.aliexpress.com/item/1005004531394564.html)
+![Profil Resmi](https://cdn.pixabay.com/photo/2015/08/27/09/06/bike-909690_1280.jpg)
 
 ## Hakkımda
 Merhaba! Ben Yusuf Efe Kaya. Yazılım geliştirme ve teknolojiye olan ilgimle bilinen bir geliştiriciyim. Bu kısımda benimle ilgili bazı temel bilgileri bulabilirsiniz.
 
 ## Geliştirici Hesapları
-![Github](https://github.com/Kaya29) - GitHub profilimde çeşitli projelerimi bulabilirsiniz.
-![Google Play](https://play.google.com/store/apps/developer?id=YEKGAMES) - Android uygulamalarımı Google Play Store'da bulabilirsiniz.
+[Github](https://github.com/Kaya29) - GitHub profilimde çeşitli projelerimi bulabilirsiniz.
+[Google Play](https://play.google.com/store/apps/developer?id=YEKGAMES) - Android uygulamalarımı Google Play Store'da bulabilirsiniz.
 
 ## Yeteneklerim
 - Programlama Dilleri: Python, C#, Unity Scripting
@@ -16,7 +16,7 @@ Merhaba! Ben Yusuf Efe Kaya. Yazılım geliştirme ve teknolojiye olan ilgimle b
 - Proje Örnekleri
 Bu bölümde, üzerinde çalıştığım bazı projelerden örnekler bulabilirsiniz:
 
-![SCARY LABYRINTH](https://play.google.com/store/apps/details?id=com.YEKGAMES.ScaryLabyrinth) - KORKUNÇ LABİRENTTE KORKUNÖ YARATIKLARDAN KAÇMAK
+[SCARY LABYRINTH](https://play.google.com/store/apps/details?id=com.YEKGAMES.ScaryLabyrinth) - KORKUNÇ LABİRENTTE KORKUNÖ YARATIKLARDAN KAÇMAK
 İletişim
 Eğer benimle iletişime geçmek istiyorsanız:
 
